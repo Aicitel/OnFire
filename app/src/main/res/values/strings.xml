@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DistanceMearsure</string>
+    <string name="game_name">Fighting</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="initValue">0</string>
+</resources>
